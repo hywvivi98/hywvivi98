@@ -14,4 +14,4 @@ Currently I'm proactively exploring wider paths and various toolkits in data eng
 - Learn more about data-eng/DevOps/backend toolkits;
 - Get inspiration for new ideas!
 
-Feel free to visit [my repositories](https://github.com/hywvivi98?tab=repositories). Please don't hesitate to open an **issue** or a **pull request** if you see there's a better approach or have any feedback and suggestions! I would be really appreciate it!
+Feel free to visit [my repositories](https://github.com/hywvivi98?tab=repositories). Please don't hesitate to open an **issue** or a **pull request** if you see there's a better approach or have any feedback and suggestions! I would really appreciate it!
