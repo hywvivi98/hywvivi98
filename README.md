@@ -20,7 +20,7 @@ You can also find me on Linkedin:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yiwei-hou/)
 
 ### <😃> Side Notes </😃>
-I'm just starting building up my Github profile, so please don't mind if you cannot see much valuable and interesting things here - But feel free to check it out later, because I'm continuously growing and adding new things to my knowledge bucket!
+I'm just starting building up my Github profile, so please don't mind if you cannot find many valuable or interesting things here - But feel free to check it out later, because I'm continuously growing and adding new things to my knowledge bucket!
 
 #### Things I'm doing recently:
 - Self-study Github Actions (and/or more CI/CD tools)
