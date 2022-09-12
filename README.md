@@ -23,10 +23,11 @@ You can also find me on Linkedin:
 I'm just starting building up my Github profile, so please don't mind if you cannot find many valuable or interesting things here - But feel free to check it out later, because I'm continuously growing and adding new things to my knowledge bucket!
 
 #### Things I'm doing recently:
-- Self-study Github Actions (and/or more CI/CD tools)
-- Build up my personal Leetcode SQL answer book
+- Continue building up my personal Leetcode SQL answer book
+- Wrap up my personal database/data warehousing concept checks articles, explain technical terms to non-technical people in the most succinct way
+- Self study how to integrate Terraform, Github Actions, and multiple AWS services together from scratch 
 
 #### Things I'm going to do for the next step:
-- Play with github actions and do some side mini-projects integrating it
+- Play around with streaming data pipeline 
 
-#### *Last Edit: 08/12/2022*
+#### *Last Edit: 09/11/2022*
