@@ -24,11 +24,12 @@ I'm just starting building up my Github profile, so please don't mind if you can
 
 #### Things I'm doing recently:
 - Continue building up my personal Leetcode SQL answer book
-- Wrap up my personal database/data warehousing concept checks articles, explain technical terms to non-technical people in a succinct way
+- Learning Terraform!
+- Reading the book *Designing Data-Intensive Applications* by Martin Kleppmann
 
 
 #### Things I'm going to do for the next step:
 - Play around with streaming data pipeline 
 - Self study how to integrate Terraform, Github Actions, and multiple AWS services together from scratch 
 
-#### *Last Edit: 09/11/2022*
+#### *Last Edit: 10/23/2022*
